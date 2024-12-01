@@ -10,5 +10,5 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e60e54e9-e1c0-4395-bd13-7282ee0135ac" height="350" alt="stats graph"  />
+  <img src="https://github.com/user-attachments/assets/e60e54e9-e1c0-4395-bd13-7282ee0135ac" height="480" alt="stats graph"  />
 </div>
