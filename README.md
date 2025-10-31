@@ -48,6 +48,10 @@
 
 ###
 
+Check out my [portfolio](https://char-projects.github.io)!! Feel free to explore and interact with the different sections and try to find the easter eggs :)
+
+###
+
 <h3 align="center">My stats:</h3>
 
 ###
