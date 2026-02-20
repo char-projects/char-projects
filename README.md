@@ -7,7 +7,7 @@
 ###
 
 <p align="center">- I’m a student at 42 Málaga</p>
-<p align="center">- I’m currently learning Vue/TypeScript and Java</p>
+<p align="center">- I’m currently learning Golang and Java</p>
 <p align="center">- If I'm not coding, you can find me at the gym</p>
 
 ###
