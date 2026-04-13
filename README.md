@@ -49,11 +49,3 @@
 ###
 
 Check out my [portfolio](https://char-projects.github.io)!! Feel free to explore and interact with the different sections and try to find the easter eggs :)
-
-###
-
-<h3 align="center">My stats:</h3>
-
-###
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=char-projects&show_icons=true&title_color=c879d2&text_color=974fab&bg_color=000000&locale=en" alt="char-projects" /></p>
