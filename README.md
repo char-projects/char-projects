@@ -8,19 +8,10 @@
 
 ```bash
 > whoami
-Charlotte
+Charlotte — software dev
 
-> role
-Frontend & Full-Stack Developer
-
-> focus
-Interactive UIs, clean & maintainable code, thoughtful UX
-
-> stack
-React | Vue | TypeScript | Go | PostgreSQL | Docker
-
-> current_mission
-Building web apps that feel as good as they look (&learning how to sew)
+> currently
+building web apps, reading docs, learning Java (&how to sew)
 ```
 
 ---
